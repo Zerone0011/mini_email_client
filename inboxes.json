@@ -1,0 +1,253 @@
+{
+    "alice": {
+        "inbox": [
+            {
+                "from": "bob",
+                "to": [
+                    "alice"
+                ],
+                "subject": "111",
+                "body": "1111",
+                "time": "2025-05-19T22:12:54",
+                "read": true
+            },
+            {
+                "from": "bob",
+                "to": [
+                    "alice"
+                ],
+                "subject": "222",
+                "body": "2222",
+                "time": "2025-05-19T22:13:09",
+                "read": true
+            },
+            {
+                "from": "bob",
+                "to": [
+                    "alice"
+                ],
+                "subject": "rrr",
+                "body": "rrrr",
+                "time": "2025-05-19T22:32:10",
+                "read": false
+            },
+            {
+                "from": "bob",
+                "to": [
+                    "alice"
+                ],
+                "subject": "ooo",
+                "body": "ooooo",
+                "time": "2025-05-19T22:32:21",
+                "read": false
+            }
+        ],
+        "drafts": [
+            {
+                "from": "alice",
+                "to": [
+                    "bob"
+                ],
+                "subject": "wednesday",
+                "body": "what is wednesday",
+                "time": "2025-05-19T20:15:58",
+                "read": false
+            }
+        ],
+        "sent": [
+            {
+                "from": "alice",
+                "to": [
+                    "bob"
+                ],
+                "subject": "monday",
+                "body": "what is monday",
+                "time": "2025-05-19T20:15:05",
+                "read": false
+            },
+            {
+                "from": "alice",
+                "to": [
+                    "bob"
+                ],
+                "subject": "tuesday",
+                "body": "what is tuesday",
+                "time": "2025-05-19T20:15:23",
+                "read": false
+            },
+            {
+                "from": "alice",
+                "to": [
+                    "bob"
+                ],
+                "subject": "kkk",
+                "body": "kkkk",
+                "time": "2025-05-19T22:17:31",
+                "read": false
+            },
+            {
+                "from": "alice",
+                "to": [
+                    "bob"
+                ],
+                "subject": "lll",
+                "body": "llll",
+                "time": "2025-05-19T22:17:43",
+                "read": false
+            },
+            {
+                "from": "alice",
+                "to": [
+                    "bob"
+                ],
+                "subject": "ppp",
+                "body": "pppp",
+                "time": "2025-05-19T22:18:34",
+                "read": false
+            },
+            {
+                "from": "alice",
+                "to": [
+                    "bob"
+                ],
+                "subject": "www",
+                "body": "wwww",
+                "time": "2025-05-19T22:20:15",
+                "read": false
+            }
+        ]
+    },
+    "bob": {
+        "inbox": [
+            {
+                "from": "alice",
+                "to": [
+                    "bob"
+                ],
+                "subject": "monday",
+                "body": "what is monday",
+                "time": "2025-05-19T20:15:05",
+                "read": true
+            },
+            {
+                "from": "alice",
+                "to": [
+                    "bob"
+                ],
+                "subject": "kkk",
+                "body": "kkkk",
+                "time": "2025-05-19T22:17:31",
+                "read": true
+            },
+            {
+                "from": "alice",
+                "to": [
+                    "bob"
+                ],
+                "subject": "www",
+                "body": "wwww",
+                "time": "2025-05-19T22:20:15",
+                "read": true
+            }
+        ],
+        "drafts": [
+            {
+                "from": "bob",
+                "to": [
+                    "alice"
+                ],
+                "subject": "555",
+                "body": "5555",
+                "time": "2025-05-19T22:13:33",
+                "read": false
+            },
+            {
+                "from": "bob",
+                "to": [
+                    "alice"
+                ],
+                "subject": "555",
+                "body": "5555",
+                "time": "2025-05-19T22:13:52",
+                "read": false
+            },
+            {
+                "from": "bob",
+                "to": [
+                    "alice"
+                ],
+                "subject": "jojf",
+                "body": "sfkkk",
+                "time": "2025-05-19T22:32:33",
+                "read": false
+            },
+            {
+                "from": "bob",
+                "to": [
+                    "alice"
+                ],
+                "subject": "dojfff",
+                "body": "sss",
+                "time": "2025-05-19T22:32:44",
+                "read": false
+            }
+        ],
+        "sent": [
+            {
+                "from": "bob",
+                "to": [
+                    "alice"
+                ],
+                "subject": "111",
+                "body": "1111",
+                "time": "2025-05-19T22:12:54",
+                "read": false
+            },
+            {
+                "from": "bob",
+                "to": [
+                    "alice"
+                ],
+                "subject": "222",
+                "body": "2222",
+                "time": "2025-05-19T22:13:09",
+                "read": false
+            },
+            {
+                "from": "bob",
+                "to": [
+                    "alice"
+                ],
+                "subject": "333",
+                "body": "3333",
+                "time": "2025-05-19T22:13:21",
+                "read": false
+            },
+            {
+                "from": "bob",
+                "to": [
+                    "alice"
+                ],
+                "subject": "rrr",
+                "body": "rrrr",
+                "time": "2025-05-19T22:32:10",
+                "read": false
+            },
+            {
+                "from": "bob",
+                "to": [
+                    "alice"
+                ],
+                "subject": "ooo",
+                "body": "ooooo",
+                "time": "2025-05-19T22:32:21",
+                "read": false
+            }
+        ]
+    },
+    "null": {
+        "inbox": [],
+        "drafts": [],
+        "sent": []
+    }
+}
