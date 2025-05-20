@@ -101,10 +101,11 @@ Don't forget our 10AM meeting.
 
 ---
 
-## Technologies Used
+## Libraries Used
 
 - Python 3 (Standard Library only)
   - `json` for data persistence
+  - `os` for file handling
   - `datetime` for timestamping emails
   - No external dependencies required
 
