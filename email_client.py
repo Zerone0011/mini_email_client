@@ -434,7 +434,7 @@ def main_menu(current_user: str, users: dict[str, str], inboxes: dict[str, dict[
             print("Invalid choice. Try again.")
 
 
-# -------------------- 程序入口 -------------------- #
+# -------------------- Program entry -------------------- #
 def main():
     print("=" * 60)
     print("WELCOME TO MINIMAIL+".center(60))
