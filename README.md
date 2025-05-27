@@ -1,8 +1,10 @@
-# MiniMail+
 <p align="center">
-  <img src="./picture/MiniMail.png" alt="MiniMail+ cover" width="600"/>
+  <img src="./picture/MiniMail.png" alt="MiniMail+ cover" width="1536"/>
 </p>
-A fully functional, text-based **email client simulator** built with pure Python.  
+
+# MiniMail+
+
+A fully functional, text-based email client simulator built with pure Python.  
 This project simulates essential email features like sending, receiving, saving drafts, and managing user accounts — all in the terminal.
 
 ---
